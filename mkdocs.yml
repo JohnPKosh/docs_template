@@ -35,6 +35,7 @@ theme:
       primary: teal
       accent: lime    
   # logo: PyTorch_logo_icon.svg
+  logo: icon.svg
   
 extra:
   social:

@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Sample Documentation
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -15,3 +15,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+<img src="../img/go-digital-logo.svg" alt-text="Go Digital" width='500' style='margin:4em;'/>
