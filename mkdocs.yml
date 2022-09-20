@@ -1,16 +1,16 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
-# defeine TOC or order of website-
+site_name: Sample Docs
+# define TOC or order of website-
 nav:
   - Home: index.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: John Kosh
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: JohnPKosh/docs_template
+repo_url: https://github.com/JohnPKosh/docs_template
 
 # Configuration
 theme:
@@ -39,7 +39,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/c17hawke
+      link: https://github.com/JohnPKosh
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/c17hawke
     - icon: fontawesome/brands/linkedin
@@ -70,4 +70,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/JohnPKosh"  target="_blank" rel="noopener">John Kosh</a>
