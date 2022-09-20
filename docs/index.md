@@ -17,4 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 
-<img src="../img/go-digital-logo.svg" alt-text="Go Digital" width='500' style='margin:4em;'/>
+<img src="img/go-digital-logo.svg" alt-text="Go Digital" width='500' style='margin:4em;'/>
